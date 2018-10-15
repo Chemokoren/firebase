@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebasenotifications</string>
+    <string name="title_main_activity">Main Activity</string>
+</resources>
